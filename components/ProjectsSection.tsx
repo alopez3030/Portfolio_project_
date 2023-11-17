@@ -11,7 +11,7 @@ const projects = [
       "NiteFlix is a web app that replicates the functionality of Netflix with a User Sign In and a monthly subscription plan.",
     image: "/Screen Shot 2023-11-15 at 9.35.14 PM.png",
     github: "https://github.com/alopez3030/Netflix_clone_build",
-    link: "netflix-clone-981e6.web.app/",
+    link: "https://netflix-clone-981e6.web.app",
   },
   {
     name: "Uber Drive",
