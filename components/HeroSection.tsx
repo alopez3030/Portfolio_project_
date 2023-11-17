@@ -25,8 +25,7 @@ const HeroSection = () => {
               Software Engineer{" "}
             </span>
             based in Brooklyn, NY. Working towards creating software that
-            makes life easier and more meaningful.
-          </p>
+            makes life easier and more meaningful. I can be reached at Alopez3030@gmail.com.</p>
           <Link
             to="projects"
             className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"

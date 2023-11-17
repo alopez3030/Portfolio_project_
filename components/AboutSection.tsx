@@ -43,9 +43,10 @@ const AboutSection = () => {
               I attended Brooklyn College, from 2018 - present
               with a desire of getting my BS in Kinesiology. When suddenly the world
               was impacted by the global pademic, I realized I should priortize the time
-              spent during the lockdown to explore my curiousity in technology.
-
-            </p>
+              spent during the lockdown to explore my curiousity in technology. I started to look
+              for programs that could help guide me through the learning process of becoming a Software
+              engineer when I came across App Academy and decided to take the self taught course while also
+              using youtube as support when it came to building projects. </p>
             <br />
             <p>
               I have a wide range of hobbies that keep me intrigued.
