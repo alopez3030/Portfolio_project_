@@ -59,7 +59,7 @@ export default function Navbar() {
               navbar ? "block" : "hidden"
             }`}
           >
-            <div className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
+            <div className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0 hover: cursor-pointer">
               {NAV_ITEMS.map((item, idx) => {
                 return (
                   <Link
